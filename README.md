@@ -10,7 +10,7 @@ PNN-MultiModal is a comprehensive deep learning framework designed to predict br
 - **Spatial Transcriptomics**: Gene expression patterns with preserved spatial context within tumor regions
 - **Clinical Metadata**: Patient demographics, tumor characteristics, and clinical outcomes
 
-This framework leverages state-of-the-art deep learning techniques to uncover the complex interactions between immune infiltration, molecular profiles, and clinical manifestations of seizure risk in glioma.
+This framework leverages state-of-the-art deep learning techniques to uncover the complex interactions between immune infiltration, molecular profiles, and clinical manifestations of seizure risk [...]
 
 ## Key Features
 
@@ -189,7 +189,7 @@ If you use this framework in your research, please cite:
 ```bibtex
 @software{pnn_multimodal_2026,
   title={PNN-MultiModal: Multimodal Deep Learning for Brain Tumor-Related Epilepsy Prediction},
-  author={BMIRDS Team},
+  author={Liu, Wenjun and Sadanandappa, Madhumala and Palisoul, Scott and Zanazzi, George and Hong, Jennifer and Hassanpour, Saeed},
   year={2026},
   url={https://github.com/BMIRDS/PNN-MultiModal}
 }
@@ -218,26 +218,6 @@ For questions, issues, or suggestions, please:
 - Open an issue on [GitHub Issues](https://github.com/BMIRDS/PNN-MultiModal/issues)
 - Contact the BMIRDS lab: [Visit BMIRDS](https://github.com/BMIRDS)
 - Check existing documentation in the `docs/` directory
-
-## Acknowledgments
-
-This work integrates insights from:
-- Multimodal machine learning research
-- Digital pathology and spatial biology communities
-- Neuro-oncology and epilepsy research
-
-We acknowledge all contributors, collaborators, and funding agencies that made this research possible.
-
-## References
-
-Key papers and resources for understanding the methodology:
-
-- Immunofluorescence imaging analysis in deep learning
-- Spatial transcriptomics integration techniques
-- Multimodal fusion architectures
-- Brain tumor and seizure prediction models
-
-See `docs/references.md` for a comprehensive reference list.
 
 ---
 
